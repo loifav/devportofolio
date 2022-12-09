@@ -1,7 +1,7 @@
 
 var aText = new Array(
     "Hello, my name is Favre Loïc", 
-    "I ' am currently in a continuing education of Webmaster.",
+    "I am currently in a continuing education of Webmaster.",
     "Feel free to check out my latest projects."
     );
     var iSpeed = 40; 
