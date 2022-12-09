@@ -242,7 +242,34 @@ header ul {
   cursor: pointer;
 }
 /* Contacts section ends */
+/* Social buttons */
+/* Social buttons */
+.socials {
+  display: flex;
+  flex-direction: column;
+  position: fixed;
+  right: 1%;
+  bottom: 50%;
+}
 
+.socicon {
+  width: 2rem;
+  height: 2rem;
+}
+/* Social button ends */
+/* Scroll to top button */
+.scroll-up {
+  position: fixed;
+  right: 0.5%;
+  bottom: 3%;
+  cursor: pointer;
+}
+
+.up-arrow {
+  width: 3rem;
+  height: 3rem;
+}
+/* Scroll to top button ends */
 /* Footer section */
 footer {
   background-color: var(--bg-color);
