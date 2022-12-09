@@ -282,7 +282,7 @@ footer {
   }
 
   .me {
-    margin-top: -3.5rem;
+    margin-top: -2.5rem;
     flex-direction: column;
     gap: 0;
   }
@@ -333,7 +333,10 @@ footer {
     height: 40%;
     width: 40%;
   }
-
+  #typedtext{
+    height: 135px;
+    color: var(--primary-color);
+  }
   .bio {
     width: 18.3rem;
   }
